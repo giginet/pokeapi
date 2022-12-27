@@ -1,3 +1,4 @@
+pokemon_id,version_group_id,move_id,pokemon_move_method_id,level,order
 4,25,10,1,1,
 4,25,45,1,1,
 4,25,52,1,4,
